@@ -1,0 +1,27 @@
+{
+  "name": "jester-scrapez",
+  "version": "1.0.0",
+  "description": "Scraperz ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarondack/jester-scrapez.git"
+  },
+  "author": "Aaron Dack & Alex Catanzaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarondack/jester-scrapez/issues"
+  },
+  "homepage": "https://github.com/aarondack/jester-scrapez#readme",
+  "dependencies": {
+    "puppeteer": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "prettier": "^1.10.2"
+  }
+}
